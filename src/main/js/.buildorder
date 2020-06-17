@@ -2,4 +2,7 @@ application/Application.js
 application/User.js
 application/Viewport.js
 
+ui/control/XMLField.js
+ui/control/YoutubeField.js
+ui/control/AudioDoc.js
 ui/control/EMail.js
